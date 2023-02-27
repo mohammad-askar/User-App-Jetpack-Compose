@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room Clean Architcture</string>
+    <string name="users">Users</string>
+    <string name="add_user">Add User</string>
+</resources>
